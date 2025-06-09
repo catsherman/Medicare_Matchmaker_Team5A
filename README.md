@@ -32,7 +32,6 @@ Key steps:
 
 - Helped demystify complex healthcare choices in a user-friendly format.
 
-- 
 
 ## What we learned
 - How to integrate multiple healthcare datasets using Delta Shares.

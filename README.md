@@ -1,2 +1,5 @@
 # Medicare_Matchmaker_Team5A
-DAIS 2025 Hackathon
+Medicare Matchmaker - DAIS 2025 Hackathon
+
+Matching Medicare coverage with applicable providers given patient medical concerns, their location, and their budget. 
+
